@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SE4041 – Mobile Application Design & Development  
 ## Practical 04 – Building Your First iOS App with SwiftUI
 
@@ -1307,3 +1308,6 @@ You have created and run an Xcode project, designed interfaces using views and s
 
 The Student Marks App combines these concepts into a small application that accepts input, validates data, displays student results, and updates its interface as data changes.
 
+=======
+# SE4041-Practical-04
+>>>>>>> b128b205db09485a8cd57fd142783061e532b1d3
